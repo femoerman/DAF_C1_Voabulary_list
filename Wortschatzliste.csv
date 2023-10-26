@@ -1,5 +1,5 @@
 ﻿Englisch;Deutsch;Extra;Type
-the weather/it is changeable;das Wetter/es ist wechselhaft;;Noun
+the weather/it is changeable;das Wetter/es ist wechselhaft;;Expression
 the storm/bad weather;das Unwetter;;Noun
 the chair;der Stuhl;;Noun
 the table;der Tisch;;Noun
@@ -8,7 +8,7 @@ the umbrella;der Regenschirm;;Noun
 the lamp;die Lampe;;Noun
 the mat;der Teppich/die Tapete;;Noun
 the desk;der Pult;;Noun
-the oven;der Backofen/der Kochherd/der Herd;;Noun
+the oven (3 variants);der Backofen/der Kochherd/der Herd;;Noun
 the window;das Fenster;;Noun
 the curtain;der Vorhang;;Noun
 the picture/painting;das Bild;;Noun
@@ -16,12 +16,12 @@ the plant;die Pflanze;;Noun
 the vase;die Vase;;Noun
 the shelf;das Regal;;Noun
 the tap;der Wasserhahn;;Noun
-the Tablecloth;die Tischdecke;;Noun
+the tablecloth;die Tischdecke;;Noun
 the chair (no back);der Hocker;;Noun
 the back of the chair;die Lehne;;Noun
 to lean (against something);sich anlehnen;lehnt an, lehnte an, hat angelehnt;Verb
 the writing desk;der Schreibtisch;;Noun
-the dishes;die Spühle;;Noun
+the dishes (pl);die Spühle;;Noun
 the room;das Zimmer;;Noun
 the floor;der Fussboden;;Noun
 the blind(s);die Jalousie/die Storen;;Noun
@@ -30,21 +30,21 @@ the comb;der kamm;;Noun
 the weather sensitivity;die Wetterfühligkeit;;Noun
 sensitive;sensibel;;Adjective
 the weather event;das Wetterereignis;;Noun
-Sensitive to weather events;Sensibel auf Wetterereignisse/Wetterfühlig sein;;Expression
-the weather conditions;die Wetterbedingungen;;Noun
-Weather change;die Wetterumschwung;Wetterumschwünge;Noun
+sensitive to weather events;sensibel auf Wetterereignisse/Wetterfühlig sein;;Expression
+the weather conditions (pl);die Wetterbedingungen;;Noun
+the weather change;die Wetterumschwung;die Wetterumschwünge;Noun
 the bonebreak;der Knochhenbruch;;Noun
 the scar;die Narbe;;Noun
 to hurt;schmerzen;schmerzt, schmerzte, hat geschmerzt;Verb
 the mood;die Laune;;Noun
 the pain;der schmerz;;Noun
 the blood pressure;der Blutdruck;;Noun
-the dizziness/dizzy feelings;die Schwindligkeitsgefühle;;Noun
+the dizziness/dizzy feelings (pl);die Schwindligkeitsgefühle;;Noun
 I feel dizzy;mir ist Schwindlig;;Expression
 the moodchange;die Stimmungsschwankung;;Noun
 the body;der Körper;;Noun
-the health problems;die esundtliche Probleme/Beschwerden;;Noun
-the muscle cramps;die Muskelkrämpfe;;Noun
+the health problems (pl);die gesundheitliche Probleme/Beschwerden;;Noun
+the muscle cramps (pl);die Muskelkrämpfe;;Noun
 the cramp;der Krampf;;Noun
 the muscle contraction/stiffening of muscles;die Verspannung;;Noun
 to endure;vertragen;verträgt, vertrug, hat vertragen;Verb
@@ -54,14 +54,14 @@ to bake;backen;bäckt, backt, hat gebacken;Verb
 to begin;beginnen;beginnt, begann, hat begonnen;Verb
 to bite;beissen;beisst, biss, hat gebissen;Verb
 to rescue;bergen;birgt, barg, hat geborgen;Verb
-to hide;Verbergen;Verbirgt, Verbarg, hat Verborgen;Verb
+to hide;verbergen;verbirgt, verbarg, hat verborgen;Verb
 to reflect;sich besinnen;bessint sich, besann sich, hat sich besonnen;Verb
 to cheat;betrügen;betrügt, betrog, hat betrogen;Verb
 to offer (advice);bieten;bietet, bot, hat geboten;Verb
 to offer (a product);anbieten;bietet an, bot an, hat angeboten;Verb
-to forbid;Verbieten;Verbietet, Verbot, hat Verboten;Verb
+to forbid;verbieten;verbietet, verbot, hat verboten;Verb
 to bind (a book);binden;bindet, band, hat gebunden;Verb
-to  bind (a wound/person);Verbinden;Verbindet, Verband, hat Verbunden;Verb
+to  bind (a wound/person);verbinden;verbindet, verband, hat verbunden;Verb
 to ask/plea;bitten;bittet, bat, hat gebeten;Verb
 blow (the wind);blasen;bläst, blies, hat geblasen;Verb
 to blow out (a candle);ausblasen;bläst aus, blies aus, hat ausgeblasen;Verb
@@ -72,11 +72,11 @@ to break (material);brechen;bricht, brach, ist gebrochen;Verb
 to halt (an education);abbrechen;bricht ab, brach ab, hat abgebrochen;Verb
 to erupt (a plague/sickness);ausbrechen;bricht aus, brach aus, ist ausgebrochen;Verb
 to interrupt;unterbrechen;unterbricht, unterbrach, hat unterbrochen;Verb
-to break (e.g., a glass);zerbrechen;zerbricht, zerbrach, ist zerbrochen;Verb
+to break (e.g., a glass pane);zerbrechen;zerbricht, zerbrach, ist zerbrochen;Verb
 to crumble (under stress);zusammenbrechen;bricht zusammen, brach zusammen, ist zusammengebrochen;Verb
-to burn (wood, passive);brennen;brennt, brannte, hat gebrannt;Verb
+to burn (wood);brennen;brennt, brannte, hat gebrannt;Verb
 to burn down (the house);abbrennen;brennt ab, brannte ab, ist abgebrannt;Verb
-to burn (something, active);Verbrennen;Verbrennt, Verbrannte, ist Verbrannt;Verb
+to burn (something, active);verbrennen;verbrennt, verbrannte, ist verbrannt;Verb
 to bring (something to someone);bringen;bringt, brachte, hat gebracht;Verb
 to provide (a proof/document);erbringen;erbringt, erbrachte, hat erbracht;Verb
 to spend (time);zerbringen;zerbringt, zerbrachte, hat zerbracht;Verb
@@ -91,29 +91,29 @@ to recommend;empfehlen;empfehlt, empfahl, hat empfohlen;Verb
 to decide (for someone/for an education);sich entscheiden;entscheidet sich, entschied sich, hat sich entschieden;Verb
 to get scared/frightened;erschrecken;erschrickt, erschrak, ist erschrocken;Verb
 to eat (not fressen);essen;isst, ass, hat gegessen;Verb
-to ingest;zu sich nehmen;nehmt zu sich, nahm zu sich, zu sich genommen;Verb
-limb pain (pl);Gliederschmerzen;;Noun
+to ingest;zu sich nehmen;nimmt zu sich, nahm zu sich, zu sich genommen;Verb
+the limb pain (pl);die Gliederschmerzen;;Noun
 the sun;die Sonne;;Noun
 the ray of sun/sunbeam;der Sonnestrahl;;Noun
 the sun shines;die Sonne scheint;;Expression
 the cloud;die Wolke;;Noun
-It is (a bit) cloudy;Es ist (leicht) bewölkt;;Expression
+it is (a bit) cloudy;es ist (leicht) bewölkt;;Expression
 the fog;der Nebel;;Noun
-foggy;Neblig;;Adjective
-the thermometer;das thermometer;;Noun
+foggy;neblig;;Adjective
+the thermometer;das Thermometer;;Noun
 cloudy (4 variants);bedeckt/bewölkt/wölkig/grau;;Adjective
 the humidity;die Luftfeuchtigkeit;;Noun
 humid;schwul;;Adjective
 the thunderstorm;das Gewitter;;Noun
 to thunderstorm;gewittern;gewittert, gewitterte, hat gewittert;Verb
 the lightning;der Blitz;;Noun
-to lightning;Blitzen;blitzt, blitzte, hat geblitzt;Verb
+to lightning;blitzen;blitzt, blitzte, hat geblitzt;Verb
 the thunder;der Donner;;Noun
 to thunder;donnern;donnert, donnerte, hat gedonnert;Verb
 warm;warm;;Adjective
 hot;heiss;;Adjective
 cold;kalt;;Adjective
-It is 0 degrees;Es hat 0 Grad;;Expression
+it is 0 degrees;es hat 0 Grad;;Expression
 the high pressure area (short and long);das Hoch/Hochdruckgebiet;;Noun
 the low pressure area (short and long);das Tief/Tiefdrückgebiet;;Noun
 the precipitation;der Niederschlag;;Noun
@@ -136,12 +136,12 @@ to rain lightly;nieseln;nieselt, nieselte, hat genieselt;Verb
 to rain strongly/to pour;giessen;giesst, goss, hat gegossen;Verb
 the rain falls;der Regen fällt;;Expression
 wet;nass;;Adjective
-wetness;die Nassigkeit;;Noun
+the wetness;die Nassigkeit;;Noun
 the snow;der Schnee;;Noun
 the snowflake;die Schneeflocke;;Noun
 to snow;schneien;schneit, schneite, hat geschneit;Verb
 slippery/icy;glatt;;Adjective
-to complain;jammern;jammert, jammert, hat gejammert;Verb
+to complain;jammern;jammert, jammerte, hat gejammert;Verb
 to drive;fahren;fährt, fuhr, ist gefahren;Verb
 to experience;erfahren;erfährt, erfuhr, hat erfahren;Verb
 to drive away;wegfahren;fährt weg, fuhr weg, ist weggefahren;Verb
@@ -191,3 +191,114 @@ to skip/proceed to (the next point);übergehen;geht über, ging über, ist über
 to avoid/circumvent (by chance);umgehen;geht um, ging um, ist umgegangen;Verb
 to pass (the time);vergehen;vergeht, verging, ist vergangen;Verb
 to act (against something/someone);vergehen;geht vor, ging vor, ist vorgegangen;Verb
+the mailman;der Postbote;den Postboten, dem Postboten, des Postboten;Noun
+to remove (barriers);aus dem Weg räumen;räumt aus dem Weg, räumte as dem Weg, hat aus dem Weg geräumt;Verb
+the homepage;die Leitseite;;Noun
+the Chinese man;der Chinese;;Noun
+the Polish man;der Pole;;Noun
+the Turkish man;der Türke;;Noun
+the French man;der Franzose;;Noun
+the Italian man;der Italiener;;Noun
+the Spanish man;der Spanier;;Noun
+the Australian man;der Australier;;Noun
+the Chinese woman;die Chinesin;;Noun
+the Polisch woman;die Polin;;Noun
+the Turkish woman;die Türkin;;Noun
+the French woman;dir Französin;;Noun
+the Italian woman;die Italienerin;;Noun
+the Spanish woman;die Spanierin;;Noun
+the Australian woman;die Australierin;;Noun
+the German man;der Deutscher;;Noun
+the German woman;die Deutsche;;Noun
+the Russian man;der Russe;;Noun
+the Russian woman;die Russin;;Noun
+the Japanese man;der Japaner;;Noun
+the Japanese woman;die Japanerin;;Noun
+the Mexican man;der Mexikaner;;Noun
+the Mexican woman;die Mexikanerin;;Noun
+the (US) American man;der US-Amerikaner;;Noun
+the (US) American woman;die US-Amerikanerin;;Noun
+the Brazilian man;der Brasilianer;;Noun
+the Brazilian woman;die Brasilianerin;;Noun
+the African man;der Afrikaner;;Noun
+the African woman;die Afrikanerin;;Noun
+the Asian man;der Asiate;;Noun
+the Asian woman;die Asiatin;;Noun
+the European man;der Europäer;;Noun
+the European woman;die Europäerin;;Noun
+the Belgian man;der Belgier;;Noun
+the Belgian woman;die Belgierin;;Noun
+Germany;Deutschland;;Noun
+France;Frankreich;;Noun
+England;England;;Noun
+Spain;Spanien;;Noun
+Italy;Italien;;Noun
+Turkey;die Türkei;;Noun
+Russland;Russland;;Noun
+Japan;Japan;;Noun
+Mexico;China;;Noun
+USA;die USA;;Noun
+Brazil;Brasilien;;Noun
+Africa;Afrika;;Noun
+Asia;Asien;;Noun
+Europe;Europa;;Noun
+Belgium;Belgien;;Noun
+German;deutsch;;Adjective
+French;franzözisch;;Adjective
+English;englisch;;Adjective
+Spanish;spanisch;;Adjective
+Italian;italienisch;;Adjective
+Turkish;türkisch;;Adjective
+Russian;russisch;;Adjective
+Japanese;japanisch;;Adjective
+Chinese;chinesisch;;Adjective
+Mexican;mexikanisch;;Adjective
+American (US);amerikanisch;;Adjective
+Brazilian;brasilianisch;;Adjective
+African;afrikanisch;;Adjective
+Asian;asiatisch;;Adjective
+European;europäisch;;Adjective
+Belgian;belgisch;;Adjective
+to sniffle;schnupfen;schnupft, schnupfte, hat geschnupft;Verb
+to cough;husten;hustet, hustete, hat gehustet;Verb
+the throat ache (plural);die Halsschmerzen;;Noun
+the headache (plural);die Kopfschmerzen;;Noun
+the limb pain (plural);die Gliederschmerzen;;Noun
+the cold;die Erkältung;;Noun
+to get a cold;sich erkälten;erkältet sich, erkältete sich, hat sich erkältet;Verb
+to inhale;inhalieren;inhaliert, inhalierte, hat inhaliert;Verb
+to recover for a few days;scih ein paar Tage erholen;;Expression
+to strengthen the immune system (2 forms);die Abwehrkräfte/das Immunsystem stärken;;Expression
+go to the doctor;zum Arzt gehen;;Expression
+to consume a lot of fluids;viel Flüssigkeit zu sich nehmen;;Expression
+the luck (only singular);das Glück;;Noun
+"the bad luck (two forms; only singlular)";das Unglück/das Pech;;Noun
+superstitious;abergläubisch;;Adjective
+the stress;der Stress;;Noun
+to be exhausted;erschöppft sein;;Expression
+the vicious circle;der Teufelskreis;;Noun
+to cause/trigger stress;Stress auslösen/verursachen/hervorrufen/provozieren;;Expression
+to do/complete work;Arbeit erledigen/bewältigen;;Expression
+last but not least;und zu guter letzt;;Expression
+being stressed;Stress haben/gestresst sein;;Expression
+avoid stress;Stress vermeiden;;Expression
+reduces stress;Stress reduzieren/abbauen;;Expression
+to have beef/anger with someone;Stress/Ärger mit jemandem haben;;Expression
+to deal well with stress;gut mit Stress umgehen können/belastbar sein;;Expression
+stressful;stressig/anstrengend;;Expression
+the traffic jam;der Stau;;Noun
+the responsibility;die Verantwortlichkeit;;Noun
+the lack of time;der Zeitmangel;;Noun
+the competition;der Konkurrenz;;Noun
+the competitive struggle;der Konkurrenzkampf;;Noun
+overworked;überarbeitet;;Adjective
+the work time/hours;die Arbeitszeit;;Noun
+the poverty;die Armut;;Noun
+the lack of money;der Geldmangel;;Noun
+the workload;die Arbeitsbelastung;;Noun
+the rhythm of life;der Lebensrhythmus;;Noun
+the lack of sleep;der Schlafmangel;;Noun
+the requirement;die Anforderung;;Noun
+to be under (too) high expectations/requirements;(zu) hohe Anforderungen/unter zu hohe Anforderungen gestellt sein/überfordert sein;;Expression
+to have too high expectations of oneself;zu hohe Ansprüche an sich selbst haben/stellen;;Expression
+the appreciation;die Wertschätzung/die Anerkennung;;Noun
